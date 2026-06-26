@@ -4,11 +4,11 @@ The player moves through a tile-based level (#) and uses a directional vacuum to
 
 ### Features:
 
-** Custom gravity, jumping, and platform drop-through physics
-** Tile-grid collision system (# blocks)
-** Patrolling ghost (x8) and skeleton (x4) enemies that reverse at ledges
-** Directional vacuum (W/A/S/D to aim, Space to activate) to pull in and capture enemies
-** Background music via SFML Audio
+* Custom gravity, jumping, and platform drop-through physics
+* Tile-grid collision system (# blocks)
+* Patrolling ghost (x8) and skeleton (x4) enemies that reverse at ledges
+* Directional vacuum (W/A/S/D to aim, Space to activate) to pull in and capture enemies
+* Background music via SFML Audio
 
 
 
